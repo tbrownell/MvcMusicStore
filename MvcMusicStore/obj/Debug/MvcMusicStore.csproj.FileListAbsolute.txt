@@ -5,3 +5,10 @@ C:\_Dev\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
 C:\_Dev\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
 C:\_Dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\_Dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
