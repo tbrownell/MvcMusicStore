@@ -1,0 +1,7 @@
+C:\_Dev\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\_Dev\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\_Dev\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\_Dev\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\_Dev\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\_Dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\_Dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
