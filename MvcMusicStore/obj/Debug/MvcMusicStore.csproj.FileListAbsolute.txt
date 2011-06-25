@@ -12,3 +12,10 @@ C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
 C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\tbrownell\_dev\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+D:\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+D:\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+D:\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
