@@ -25,7 +25,7 @@ namespace MvcMusicStore.Controllers
                 CartItems = cart.GetCartItems(),
                 CartTotal = cart.GetTotal()
             };
-            return View();
+            return View(viewModel);
         }
 
         //
@@ -41,7 +41,7 @@ namespace MvcMusicStore.Controllers
             var cart = ShoppingCart.GetCart(this.HttpContext);
             cart.AddToCart(addedAlbum);
 
-            // Go back to the mail store page for more shopping
+            // Go back to the main store page for more shopping
             return RedirectToAction("Index");
         }
 
