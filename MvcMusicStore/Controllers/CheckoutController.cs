@@ -15,6 +15,14 @@ namespace MvcMusicStore.Controllers
 
         //
         // GET: /Checkout/AddressAndPayment
+
+        public ActionResult AddressAndPayment() 
+        {
+            return View();
+        }
+
+        //
+        // POST: /Checkout/AddressAndPayment
         [HttpPost]
         public ActionResult AddressAndPayment(FormCollection values)
         {
